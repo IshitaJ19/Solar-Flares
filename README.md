@@ -1,5 +1,4 @@
-# Solar Flares
-Topic: Analysis of Solar Flares from RHESSI Mission
+# Analysis of Solar Flares from RHESSI Mission
 
 Data Source: https://hesperia.gsfc.nasa.gov/hessidata/dbase/hessi_flare_list.txt
 
