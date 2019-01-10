@@ -8,4 +8,4 @@ To explore the basic physics of particle acceleration and explosive energy relea
 
 The cleaned data frame has 39,952 entries.
 
-This project is done as part of DATS6103 - Introduction to Data Mining at The George Washington University.
+This project is done as part of DATS6103 - Introduction to Data Mining at The George Washington University (Nov 2018).
